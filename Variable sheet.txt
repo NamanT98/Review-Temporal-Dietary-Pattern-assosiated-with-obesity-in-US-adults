@@ -1,0 +1,24 @@
+variable sheet:
+1.seqn: "Unique id of participants"
+2.total_sugar: "amount of sugar intake in one day"
+3.total_fat: "amount of fat intake in one day"
+4.energy_intake: "total energy intake in one day"
+5.total_weight: "total weight of food intake in one day"
+6.cholestrol: "amount of cholestrol intake in one day"
+7.alcohol: "amount of alcohol taken in one day"
+8.RIAGENDR: "Gender of person"
+		1: Male
+		2: Female
+9.RIDRETH1: "Race of person"
+		1: Mexican American	
+		2: Other Hispanic
+		3: Non-Hispanic White
+		4: Non-Hispanic Black
+		5: Other Race - Including Multi-Racial
+10.INDFMPIR: "Poverty to income ratio"
+11.RIDAGEYR: "Age of participant"
+12.BMXWT: "Body weight of participant"
+13.BMXBMI: "BMI of the participant" 
+14.BMXWAIST: "Waist circumference of participant"
+15.PAD080: "Physical activity in minutes of participant daily"
+16.year: "Year of survey"
